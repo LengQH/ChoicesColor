@@ -1,3 +1,3 @@
 # ChoicesColor
-取色板
+取色板最终的效果！
 ![image](http://github.com/LengQH/ChoicesColor/raw/master/image/example.png)
